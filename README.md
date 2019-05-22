@@ -5,4 +5,4 @@
 jlskjdfkjsk
 
 
-$h_j = a_j + b_j$
+$$h_j = a_j + b_j$$
